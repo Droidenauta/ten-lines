@@ -1,5 +1,5 @@
 import types_en_txt from "../wasm/lib/PokeFinder/Source/Core/Resources/i18n/en/powers_en.txt?raw";
-import natures_en_txt from "../wasm/lib/PokeFinder/Source/Core/Resources/i18n/en/natures_en.txt?raw";
+import natures_es_txt from "../wasm/lib/PokeFinder/Source/Core/Resources/i18n/en/natures_es.txt?raw";
 import abilities_en_txt from "../wasm/lib/PokeFinder/Source/Core/Resources/i18n/en/abilities_en.txt?raw";
 import species_en_txt from "../wasm/lib/PokeFinder/Source/Core/Resources/i18n/en/species_en.txt?raw";
 import forms_en_txt from "../wasm/lib/PokeFinder/Source/Core/Resources/i18n/en/forms_en.txt?raw";
@@ -36,7 +36,7 @@ export const METHODS_EN: Record<number, string> = {
 };
 export const GENDERS_EN = ["♂", "♀", "-"];
 export const SHININESS_EN = ["No", "Star", "Square"];
-export const NATURES_EN = parseList(natures_en_txt);
+export const NATURES_EN = parseList(natures_es_txt);
 export const ABILITIES_EN = parseList(abilities_en_txt);
 export const SPECIES_EN = ["Egg", ...parseList(species_en_txt)];
 export const FORMS_EN = Object.fromEntries(

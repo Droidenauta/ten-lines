@@ -1,5 +1,5 @@
 import types_en_txt from "../wasm/lib/PokeFinder/Source/Core/Resources/i18n/en/powers_en.txt?raw";
-import natures_es_txt from "../wasm/lib/PokeFinder/Source/Core/Resources/i18n/en/natures_es.txt?raw";
+import natures_es_txt from "../wasm/lib/PokeFinder/Source/Core/Resources/i18n/es/natures_es.txt?raw";
 import abilities_en_txt from "../wasm/lib/PokeFinder/Source/Core/Resources/i18n/en/abilities_en.txt?raw";
 import species_en_txt from "../wasm/lib/PokeFinder/Source/Core/Resources/i18n/en/species_en.txt?raw";
 import forms_en_txt from "../wasm/lib/PokeFinder/Source/Core/Resources/i18n/en/forms_en.txt?raw";
